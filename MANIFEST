@@ -6,3 +6,6 @@ Makefile.PL
 CHANGELOG
 README
 META.yml                                 Module meta-data (added by MakeMaker)
+lib/Number/Phone/UK/DBM/Deep/Array.pm
+lib/Number/Phone/UK/DBM/Deep/Hash.pm
+lib/Number/Phone/UK/DBM/Deep.pm

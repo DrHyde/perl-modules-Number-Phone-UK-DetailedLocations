@@ -1,3 +1,5 @@
-2006-08-25	Fixed test to work with fixed Number::Phone::UK
-2006-08-24	Updated dependencies to avoid buggy Number::Phone::UK. Doh!
+2007-03-13      Bundle old version of DBM::Deep, cos version 1.0 ain't
+                  combatible with our old databases
+2006-08-25      Fixed test to work with fixed Number::Phone::UK
+2006-08-24      Updated dependencies to avoid buggy Number::Phone::UK. Doh!
 2006-08-23      Initial release

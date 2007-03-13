@@ -1,7 +1,6 @@
 =head1 NAME
 
-Number::Phone::UK::DetailedLocations - more detailed location information for Nu
-mber::Phone::UK
+Number::Phone::UK::DetailedLocations - more detailed location information for Number::Phone::UK
 
 =head1 SYNOPSIS
 

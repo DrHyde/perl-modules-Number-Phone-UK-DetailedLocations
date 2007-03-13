@@ -1,8 +1,8 @@
 use ExtUtils::MakeMaker;
 WriteMakefile(
 		NAME         => 'Number::Phone::UK::DetailedLocations',
-		VERSION      => '1.2',
+		VERSION      => '1.21',
 		PREREQ_PM    => {
-			'Number::Phone::UK' => 1.55,
+			'Number::Phone' => 1.57,
 		}
 	     );

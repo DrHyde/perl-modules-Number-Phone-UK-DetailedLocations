@@ -3,8 +3,9 @@ WriteMakefile(
 		NAME         => 'Number::Phone::UK::DetailedLocations',
     META_MERGE => {
         license => 'other',
-        resource => {
-	    repository => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations'
+        resources => {
+	    repository => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations',
+	    bugtracker => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations/issues'
         }
     },
 		VERSION      => '1.3',

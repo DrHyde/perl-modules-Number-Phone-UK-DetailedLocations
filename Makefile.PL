@@ -8,7 +8,7 @@ WriteMakefile(
             bugtracker => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations/issues'
         }
     },
-    VERSION      => '1.4',
+    VERSION      => '1.5',
     PREREQ_PM    => {
         'Number::Phone' => 1.57,
     }

@@ -1,15 +1,15 @@
 use ExtUtils::MakeMaker;
 WriteMakefile(
-		NAME         => 'Number::Phone::UK::DetailedLocations',
+    NAME         => 'Number::Phone::UK::DetailedLocations',
     META_MERGE => {
         license => 'other',
         resources => {
-	    repository => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations',
-	    bugtracker => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations/issues'
+            repository => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations',
+            bugtracker => 'https://github.com/DrHyde/perl-modules-Number-Phone-UK-DetailedLocations/issues'
         }
     },
-		VERSION      => '1.3',
-		PREREQ_PM    => {
-			'Number::Phone' => 1.57,
-		}
-	     );
+    VERSION      => '1.4',
+    PREREQ_PM    => {
+        'Number::Phone' => 1.57,
+    }
+);

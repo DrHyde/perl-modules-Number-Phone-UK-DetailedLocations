@@ -11,5 +11,6 @@ WriteMakefile(
     VERSION      => '1.5',
     PREREQ_PM    => {
         'Number::Phone' => 1.57,
+        'Test::More'    => 0.88, # done_testing
     }
 );

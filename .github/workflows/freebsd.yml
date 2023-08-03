@@ -10,7 +10,7 @@ jobs:
         uses: shogo82148/actions-setup-perl@v1
       - name: Test and build
         run: |
-          cpanm --installdeps .
+          cpanm --installdeps . || cat /Users/runner/.cpanm/work/*/build.log
           perl Makefile.PL
           make test
           make dist
